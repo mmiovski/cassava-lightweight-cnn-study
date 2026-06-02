@@ -147,6 +147,36 @@ Per-class test recall:
 
 The model performed strongest on CMD and weakest on CBB. The confusion-matrix analysis showed that some CBB cases were confused with Healthy leaves, so strong aggregate metrics did not imply equally reliable recognition across all classes.
 
+## Key Figures
+
+### Dataset Class Distribution
+
+[View Figure 1: Class Distribution](figures/figure_1_class_distribution.pdf)
+
+### Preprocessing and Augmentation Examples
+
+![Preprocessing and augmentation examples](figures/figure_2_preprocessing_augmentation_examples.png)
+
+### Architecture Progression
+
+![Architecture progression](figures/figure_3_architecture.png)
+
+### Experiment 1 Training Macro-F1 Curves
+
+[View Figure 4: Experiment 1 Training Macro-F1 Curves](figures/figure_4_exp1_training_macro_f1_curves.pdf)
+
+### Experiment 2 Training Macro-F1 Curves
+
+[View Figure 5: Experiment 2 Training Macro-F1 Curves](figures/figure_5_exp2_training_macro_f1_curves.pdf)
+
+### Final Confusion Matrix
+
+[View Figure 6: Final Confusion Matrix](figures/figure_6_final_confusion_matrix.pdf)
+
+### Final Per-Class Recall
+
+[View Figure 7: Per-Class Recall](figures/figure_7_per_class_recall.pdf)
+
 ### Main conclusions
 
 1. Controlled lightweight studies are useful because they make it easier to isolate which design choices are responsible for performance changes.
