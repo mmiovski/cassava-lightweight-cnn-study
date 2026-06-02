@@ -1,0 +1,38 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# environments
+.venv/
+venv/
+env/
+.env
+
+# mac
+.DS_Store
+
+# data
+data/
+raw_data/
+extracted_data/
+*.zip
+*.tar
+*.tar.gz
+
+# large model/artifact files
+artifacts/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# kaggle credentials
+kaggle.json
+
+# temporary files
+*.log
+*.tmp
