@@ -185,16 +185,16 @@ Possible extensions include:
 cassava-lightweight-cnn-study/
 ├── README.md
 ├── requirements.txt
+├── .gitignore
 ├── src/
 │   ├── cassava_eda_cleaning.py
 │   ├── cassava_experiments.py
 │   └── cassava_reporting_plots.py
 ├── reports/
-├── presentation/
-├── figures/
-├── notebooks/
-├── data/
-└── artifacts/
+│   ├── cassava_leaf_disease_report.pdf
+│   └── cassava_leaf_disease_report.tex
+└── presentation/
+    └── cassava_leaf_disease_poster.pdf
 ```
 
 ### Environment setup
