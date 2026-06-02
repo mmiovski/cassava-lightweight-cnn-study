@@ -216,15 +216,25 @@ cassava-lightweight-cnn-study/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── LICENSE
 ├── src/
 │   ├── cassava_eda_cleaning.py
 │   ├── cassava_experiments.py
 │   └── cassava_reporting_plots.py
+├── figures/
+│   ├── figure_1_class_distribution.png
+│   ├── figure_2_preprocessing_augmentation_examples.png
+│   ├── figure_3_architecture.png
+│   ├── figure_4_exp1_training_macro_f1_curves.png
+│   ├── figure_5_exp2_training_macro_f1_curves.png
+│   ├── figure_6_final_confusion_matrix.png
+│   └── figure_7_per_class_recall.png
 ├── reports/
-│   ├── cassava_leaf_disease_report.pdf
-│   └── cassava_leaf_disease_report.tex
+│   ├── main.tex
+│   ├── proj_report.pdf
+│   └── references.bib
 └── presentation/
-    └── cassava_leaf_disease_poster.pdf
+    └── proj_poster.pdf
 ```
 
 ### Environment setup
