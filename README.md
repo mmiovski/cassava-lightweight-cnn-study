@@ -151,7 +151,7 @@ The model performed strongest on CMD and weakest on CBB. The confusion-matrix an
 
 ### Dataset Class Distribution
 
-[View Figure 1: Class Distribution](figures/figure_1_class_distribution.pdf)
+![Class distribution](figures/figure_1_class_distribution.png)
 
 ### Preprocessing and Augmentation Examples
 
@@ -163,19 +163,19 @@ The model performed strongest on CMD and weakest on CBB. The confusion-matrix an
 
 ### Experiment 1 Training Macro-F1 Curves
 
-[View Figure 4: Experiment 1 Training Macro-F1 Curves](figures/figure_4_exp1_training_macro_f1_curves.pdf)
+![Experiment 1 training macro-F1 curves](figures/figure_4_exp1_training_macro_f1_curves.png)
 
 ### Experiment 2 Training Macro-F1 Curves
 
-[View Figure 5: Experiment 2 Training Macro-F1 Curves](figures/figure_5_exp2_training_macro_f1_curves.pdf)
+![Experiment 2 training macro-F1 curves](figures/figure_5_exp2_training_macro_f1_curves.png)
 
 ### Final Confusion Matrix
 
-[View Figure 6: Final Confusion Matrix](figures/figure_6_final_confusion_matrix.pdf)
+![Final confusion matrix](figures/figure_6_final_confusion_matrix.png)
 
 ### Final Per-Class Recall
 
-[View Figure 7: Per-Class Recall](figures/figure_7_per_class_recall.pdf)
+![Final per-class recall](figures/figure_7_per_class_recall.png)
 
 ### Main conclusions
 
